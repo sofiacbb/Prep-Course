@@ -1,0 +1,21 @@
+h1 {
+    color: palevioletred;
+}
+
+img {
+    width: 400px;
+    height: 250px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: orange;
+    padding: 50px;
+    border: 5px solid orangered;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
